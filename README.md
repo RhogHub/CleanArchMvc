@@ -1,2 +1,2 @@
 # CleanArchMvc
-Playgroug: Clean Arquitecture with dotnet mvc - C#
+Playground: Clean Arquitecture with dotnet mvc - C#

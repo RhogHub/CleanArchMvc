@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj": {}
+    "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj": {
+    "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
+        "projectUniqueName": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
         "projectName": "CleanArchMvc.API",
-        "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
+        "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
         "packagesPath": "C:\\Users\\digos\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.API\\obj\\",
+        "outputPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
-                "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
+              "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
               }
             }
           }
@@ -43,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -73,18 +78,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+    "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectUniqueName": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "projectName": "CleanArchMvc.Application",
-        "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "packagesPath": "C:\\Users\\digos\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
+        "outputPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,8 +111,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -116,6 +121,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -147,18 +157,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "packagesPath": "C:\\Users\\digos\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
+        "outputPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,6 +196,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -207,18 +222,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+    "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "projectName": "CleanArchMvc.Infra.Data",
-        "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\digos\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -240,8 +255,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -250,6 +265,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -297,18 +317,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+    "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
         "projectName": "CleanArchMvc.Infra.IoC",
-        "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+        "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\digos\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\obj\\",
+        "outputPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -330,11 +350,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
-                "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
+              "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+                "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
               },
-              "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
-                "projectPath": "D:\\Documents\\Estudos Udemy\\Clean Architecture C#\\CleanArchMvc_NET7\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
+              "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\digos\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
               }
             }
           }
@@ -343,6 +363,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -390,7 +415,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
